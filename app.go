@@ -1,4 +1,5 @@
 // Based on original work by Alex Ellis at http://blog.alexellis.io/golang-json-api-client/
+
 // I cant claim this to be optimal in any way.  I Took the opportunity presented by Alex to experiment with nested JSON elements.
 
 package main
